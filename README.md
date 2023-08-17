@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @legocris
 - 👀 I’m interested in, game programming and math
-- 🌱 I’m currently learning math, python and haskell
-- 💞️ I’m looking to collaborate on projects made with gamemaker or scripts made with any language
+- 🌱 I’m currently learning math, newral networks and shaders
+- 💞️ ok
 - 📫 How to reach me: send me a mail to legocris@hotmail.com
 
 <!---
